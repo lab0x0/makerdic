@@ -5,4 +5,4 @@ The aim of this repository is to collect useful information and "Dictionary" for
 
 Please feel free to open issues if you are looking for terms not covered or pull requests if you can contribute anything.
 
-For now all the content is in the wiki: https://github.com/makerdic/makerdic/wiki
+For now all the content is in the wiki: https://github.com/markerdic/makerdic/wiki
